@@ -1,0 +1,10 @@
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\bin\Debug\EmployeeRecords.exe.config
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\bin\Debug\EmployeeRecords.exe
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\bin\Debug\EmployeeRecords.pdb
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\obj\Debug\EmployeeRecords.formEmployeeDetails.resources
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\obj\Debug\EmployeeRecords.Properties.Resources.resources
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\obj\Debug\EmployeeRecords.csproj.GenerateResource.cache
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\obj\Debug\EmployeeRecords.csproj.CoreCompileInputs.cache
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\obj\Debug\EmployeeRecords.exe
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\obj\Debug\EmployeeRecords.pdb
+C:\Users\kayla\OneDrive - University of Phoenix\POS 409\EmployeeRecords\EmployeeRecords\obj\Debug\EmployeeRecords.csprojAssemblyReference.cache
